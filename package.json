@@ -19,13 +19,6 @@
   },
   "licenses": "MIT",
   "main": "index",
-  "files": [
-    "lib",
-    "assets",
-    "src",
-    "examples",
-    "tests"
-  ],
   "config": {
     "port": 8000
   },
