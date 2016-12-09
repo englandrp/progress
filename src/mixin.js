@@ -7,7 +7,7 @@ export default {
     strokeColor: PropTypes.string,
     trailWidth: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
     trailColor: PropTypes.string,
-    strokeLinecap: PropTypes.oneOf(['round', 'square']),
+    strokeLinecap: PropTypes.oneOf(['round', 'square', 'butt']),
     style: PropTypes.object,
     className: PropTypes.string,
   },
