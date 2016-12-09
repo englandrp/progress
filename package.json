@@ -18,7 +18,7 @@
     "url": "https://github.com/englandrp/progress/issues"
   },
   "licenses": "MIT",
-  "main": "lib/index",
+  "main": "index",
   "files": [
     "lib",
     "assets",
